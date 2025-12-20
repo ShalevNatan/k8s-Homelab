@@ -22,3 +22,8 @@
 ## Outcome
 VMware Workstation Pro will be used as the virtualization layer for all Kubernetes nodes.
 
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/38c06dae-16ff-4061-91b8-4edc5e242912" />
+
+
